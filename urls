@@ -1,2 +1,5 @@
 1. PHP Extendsion setting in WHM
 https://www.inmotionhosting.com/support/edu/easyapache/easy-apache-4/how-to-install-a-php-extension-using-easyapache-4
+
+2. Send mail confiration from local host
+https://stackoverflow.com/questions/19132171/send-email-from-localhost-running-xammp-in-php-using-gmail-mail-server
